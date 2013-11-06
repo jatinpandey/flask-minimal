@@ -1,0 +1,6 @@
+
+*.pyc
+settings.py
+venv/
+schema.sql
+
